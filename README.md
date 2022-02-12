@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on a my final year project!
 -   🌱 I’m currently learning Fullstack
--   👯 I’m looking to collaborate with other content creators
+<!-- -   👯 I’m looking to collaborate with other content creators -->
 -   🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:

@@ -39,14 +39,14 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/offices/160/000000/php-logo.png" />
 </code>](https://www.php.net/)
 [<code>
+<img alt="Laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+</code>](https://laravel.com/)
+[<code>
+<img alt="Codeigniter" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png"/>
+</code>](https://codeigniter.com/)
+[<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
-<!-- [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/) -->
-<!-- [<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/) -->
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)

@@ -64,7 +64,7 @@
 </code>](https://www.json.org/json-en.html)
 [<code>
 <img alt="MongoDB" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
-</code>](https://www.json.org/json-en.html)
+</code>](https://mongodb.com)
 [<code>
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
 </code>](https://eslint.org/)
